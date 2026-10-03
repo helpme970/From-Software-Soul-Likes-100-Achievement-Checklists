@@ -9,3 +9,6 @@ Fork of the original "From Software Soul-Likes 100% Achievement Checklists" by S
 ## Usage
 1. Download the checklist here
 2. Open it with the spreadsheet program of your choice
+
+## Issues
+If you find a issue in the spreadsheet, whether it be a design issue or a content issue, you can report it via the Issues tab at the top.
