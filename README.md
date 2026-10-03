@@ -1,6 +1,8 @@
 # From-Software-Soul-Likes-100-Achievement-Checklists 2.0
 Fork of the original "From Software Soul-Likes 100% Achievement Checklists" by SilentNinj_
 
+I created this fork as I was unhappy with the choice of being an online spreadsheet with bad support for Excel and because the original doesn't seem to get updates anymore.
+
 ## Features
 - annyoing things removed
 - optimized for MS Excel/LibreOffice Calc
