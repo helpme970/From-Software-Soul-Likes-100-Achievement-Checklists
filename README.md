@@ -9,7 +9,7 @@ I created this fork as I was unhappy with the choice of being an online spreadsh
 - fixed issues in the content
 
 ## Usage
-1. Download the checklist here
+1. Download the checklist [here](https://raw.githubusercontent.com/helpme970/From-Software-Soul-Likes-100-Achievement-Checklists/refs/heads/main/From%20Software%20Soul-Likes%20100_%20Achievement%20Checklists.ods)
 2. Open it with the spreadsheet program of your choice
 
 ## Issues
